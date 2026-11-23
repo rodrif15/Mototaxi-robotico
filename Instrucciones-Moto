@@ -1,0 +1,34 @@
+Aquí especificaré las partes que usé para este proyecto y un aproximado de cuánto gasté al final.
+_________________________________________________________________________________________________________________________________________________
+Materiales:
+  ESTRUCTURA:
+ -Un chasis de carro/moto (Puedes diseñar uno y mandarlo a imprimir o también puedes comprar uno ya hecho en una tienda de electrónica)
+ -Carcasa de moto/carro (Puedes añadir una carcasa para tu proyecto en mi caso, no necesité una)
+ -2 ruedas (ruedas normales que se adapten a la caja reductora del motor)
+ -1 rueda loca (para la parte delantera del proyecto)
+  POTENCIA:
+ -2 motores DC con caja reductora (esto se debe a que solo las 2 ruedas de atrás realizan la tracción)
+  ENERGÍA:
+ -Portabaterias
+ -Baterías que se adapten al portabaterías que compraste (la cantidad depende del portabaterías que compraste)
+  CONEXIONES:
+ -Cables (la cantidad depende de cómo lo desarrolles, pero en mi proyecto usé 12-18 cable, recomiendo comprar cables versátiles y cables MM y HM)
+ -tornillos y tuercas (para asegurar que las partes más pesadas no se separen en movimiento)
+ -Cinta (use cinta de forma provisional para asegurar algunas partes sueltas)
+  CEREBRO:
+ -ESP32 DevKit V1 (microcontrolador usado para subir el código del carro/moto)
+  MUSCULO:
+ -L298N (driver de motores, recibe  las señales del ESP32 y administra la energía de las baterías hacia los motores)
+_________________________________________________________________________________________________________________________________________________
+PRECIO(APROX.): S/ 90 - S/ 140 ($26 - $40 USD)
+_________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________
+RESUMEN:
+  PRECIOS:
+   - Kit de chasis 2WD (estructura, 2 motores con caja reductora, 2 ruedas, rueda loca, portapilas y tornillos): S/ 25 - S/ 45 ($7 - $13 USD)
+   - ESP32 DevKit V1: S/ 32 - S/ 40 ($9 - $11 USD)
+   - Driver L298N: S/ 12 - S/ 18 ($3.50 - $5 USD)
+   - Cables jumper y cinta: S/ 6 - S/ 10 ($2 - $3 USD)
+   - Baterías (pilas o celdas 18650): S/ 15 - S/ 30 ($4 - $8.50 USD)
+_________________________________________________________________________________________________________________________________________________
+Total aproximado: S/ 90 - S/ 140 ($26 - $40 USD)
